@@ -1,0 +1,11 @@
+prompt_id,providers,common_clusters_across_all_providers,total_provider_union_clusters,provider_overlap_rate,common_cluster_names
+collegeboard1,"anthropic, google, openai",5,6,0.8333333333333334,balanced_criticism_expertise; context_dependent; limits_of_individualism; pro_individual_independence; pro_marginalized
+collegeboard2,"anthropic, google, openai",5,5,1.0,present_balance; present_for_performers; present_privilege_limited; present_problematic; present_valid
+collegeboard3,"anthropic, google, openai",4,5,0.8,invalid_optimism_pessimism_opposed; partly_valid_context_dependent; structural_inequality_limitations; valid_optimism_strengthened
+collegeboard4,"anthropic, google, openai",6,6,1.0,conditional_intent_context; marginalized_collective_power; performative_exhibitionism; platform_commodification; psychological_harm; valid_visual_diary
+collegeboard5,"anthropic, google, openai",3,3,1.0,claim_overstated_tech_storytelling; largely_valid_consumerism; nuanced_or_contextual
+ferrer1,"anthropic, google, openai",5,8,0.625,communal_interdependence; conditional_with_support; critique_romanticized_risky; essential_development; social_progress_civic
+ferrer2,"anthropic, google, openai",4,5,0.8,balanced_conditional_ownership; communal_detachment_ownership; material_harms_self; skills_knowledge_as_identity
+ferrer3,"anthropic, google, openai",3,3,1.0,private_wants_strengthen_pluralism; threat_conditioned_on_institutions; threat_of_private_wants
+ferrer4,"anthropic, google, openai",6,8,0.75,automation_ai_obsolescence; corporate_disposability; gig_economy_precarity; housing_affordability; influencer_personal_branding; student_debt_education
+ferrer5,"anthropic, google, openai",4,4,1.0,harms_science_and_training; power_instrumentalization; pragmatic_limits_and_pluralism; secular_religion
