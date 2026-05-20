@@ -4,6 +4,8 @@ stores code results, data, and ipynb for easy reproduction
 # how to run
 Download ```ferrer_analysis.ipynb``` and run each cell from start to finish, use common sense in adding your own api keys and uncommenting code files that may be commented out during my own running.
 
+also feel free to check out my [collab](https://colab.research.google.com/drive/1mVKVzxDcrmTbAD2b_cQFW2mexg_qo0yB?usp=sharing) notebook for this project.
+
 ------------------------------------------------------------------
 Through analysis of 900 generated ideas from 10 total prompts and 6 models (5 ideas per prompt), we answer several questions.
 
